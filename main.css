@@ -4,38 +4,30 @@ h1 {
   font-size: 40px;
   font-family: Arial
 }
+
 h2 {
   font-size: 25px;
   font-family: Arial
 }
+
 h3 {
   font-family: Arial
 }
+
 p {
   font-size: 14px;
   font-family: Arial
-
 }
+
+div {
+ background-color: blue;
+ text-align: right;
+}
+
 th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-  font-family: Arial
+ padding: 8px;
+ text-align: left;
+ border-bottom: 1px solid #ddd;
+ font-family: Arial
 }
 tr:nth-child(odd) {background-color: #f2f2f2;}
- 
- 
- 
-<p>
-To be successful IT graduates need to understand the use of industry tools and practices, 
- the ways these tools work and connect together, and the underlying professional, ethical, 
- and teamwork knowledge and skills needed to put these into practice in a professional manner.
-  
-</p>
-<a href="https://www.deakin.edu.au/students/enrolment-and-fees/fees"> > Current students </a>
-
-
-
-
-
-
